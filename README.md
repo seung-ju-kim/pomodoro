@@ -7,9 +7,15 @@
 1. 25분 카운트다운이 시작됩니다.
 2. 아이콘이 일시정지 버튼으로 바뀝니다.
 3. 25분이 지나면 Pomodoro Count가 1씩 증가합니다.
-<img width="452" alt="스크린샷 2023-02-06 오전 12 29 40" src="https://user-images.githubusercontent.com/85879970/216828584-b10aeb94-ac8b-49e4-82dd-1934798e622b.png">
+<img width="456" alt="스크린샷 2023-02-06 오전 12 45 22" src="https://user-images.githubusercontent.com/85879970/216829463-721b8d5e-9a85-4780-bf1b-625d11160ea9.png">
 
-#### 중지 버튼 클릭
+
+#### 일시정지 버튼 클릭
 1. 25분 카운트다운이 일시정지 합니다.
 2. 아이콘이 시작 버튼으로 바뀝니다.
-<img width="453" alt="스크린샷 2023-02-06 오전 12 30 03" src="https://user-images.githubusercontent.com/85879970/216828601-2100fa0c-4a1a-427e-aa71-d0d651304ddb.png">
+<img width="459" alt="스크린샷 2023-02-06 오전 12 45 37" src="https://user-images.githubusercontent.com/85879970/216829474-890002d0-406d-45de-9854-861b2e9ec06c.png">
+
+#### 중지 버튼 클릭
+1. 25분 카운트다운이 정지 합니다.
+2. 시간이 25분으로 다시 초기화 됩니다.
+3. 아이콘이 시작 버튼으로 바뀝니다.
