@@ -1,16 +1,13 @@
-# toonflix
+# Pomodoro
+### 프로젝트 설명
+플러터로 구현한 간단한 포모도로 앱입니다.
 
-A new Flutter project.
+### 기능
+#### 시작 버튼 클릭
+1. 25분 카운트다운이 시작됩니다.
+2. 아이콘이 일시정지 버튼으로 바뀝니다.
+3. 25분이 지나면 Pomodoro Count가 1씩 증가합니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### 중지 버튼 클릭
+1. 25분 카운트다운이 일시정지 합니다.
+2. 아이콘이 시작 버튼으로 바뀝니다.
